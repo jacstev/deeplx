@@ -10,13 +10,13 @@
   "kv_namespaces": [
     {
       "binding": "CACHE_KV",
-      "id": "3e172a54991e496096290b845d626716",
-      "preview_id": "e9e499fe006e4879a0668e792fe2dd15"
+      "id": "93be6a80888a4dc1ba0da2597c014166",
+      "preview_id": "83b30364282143fcb5943a47178baf77"
     },
     {
       "binding": "RATE_LIMIT_KV",
-      "id": "d728cbe99ed8490780b9891bb8b91ada",
-      "preview_id": "bbed039364e5488e8ed58701c3ee5da5"
+      "id": "cb7e4b270f1747b48e9db10d8defa945",
+      "preview_id": "53379d9d0af8432fbe3dad4e9e5b322a"
     }
   ],
   "main": "src/index.ts",
